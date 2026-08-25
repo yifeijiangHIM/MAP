@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+
+message: "If you use this software, please cite it as below."
+
+title: "Multi-dimensional Adaptive Profiling (MAP) for Single Extracellular Vesicles Analysis"
+
+type: software
+
+authors:
+  - family-names: "Jiang"
+    given-names: "Yifei"
+
+version: "1.0.0"
+
+date-released: "2026-08-25"
+
+license: MIT
+
+repository-code: "https://github.com/yifeijiangHIM/MAP.git"
+
+doi: "10.5281/zenodo.22097253"
+
+url: "https://github.com/yifeijiangHIM/MAP.git"
+
+abstract: >
+  Source code for EV marker profiling, EV subpopulation identification,
+  marker-range optimization, machine learning-based classification,
+  and statistical analysis.
+
+keywords:
+  - extracellular vesicles
+  - EV subpopulation
+  - machine learning
+  - liquid biopsy
+  - biomarker discovery
