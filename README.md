@@ -26,7 +26,7 @@ A simplified workflow is:
 
 
 ## Repository Structure
-EV-Digitalization/
+main/
 │
 ├── README.md
 ├── LICENSE
