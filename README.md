@@ -5,7 +5,7 @@ This repository contains the source code and example data for the computational 
 
 The code implements the computational framework for single EV digitalization, machine learning-based classification, parameter optimization, and diagnostic performance evaluation.
 
-## Overview
+## Overviewhttps://github.com/yifeijiangHIM/MAP/blob/main/README.md
 
 The analysis pipeline consists of the following major steps:
 
@@ -17,17 +17,12 @@ The analysis pipeline consists of the following major steps:
 
 A simplified workflow is:
 
-Input EV data
-      ↓
-EV digitalization
-      ↓
-EV subpopulation identification
-      ↓
-Volcano plot analysis
-      ↓      
-Marker-range optimization based on ROC/AUC 
-      ↓
-Results and figures
+1.Input EV data
+2.EV digitalization
+3.EV subpopulation identification
+4.Volcano plot analysis   
+5.Marker-range optimization based on ROC/AUC 
+6.Results and figures
 
 
 ## Repository Structure
@@ -36,14 +31,15 @@ EV-Digitalization/
 ├── README.md
 ├── LICENSE
 ├── CITATION.cff
-│
+
 ├── code/
 │   ├── MAP-ESCC.m
 │   └── MAP-AD.m
+
 ├── demo/
 │   ├── ESCC data.zip
 │   └── AD data.zip
-│
+
 └── results/
 │   └── example_results/
 │   ├── ESCC EV list.doc
