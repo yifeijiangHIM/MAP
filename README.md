@@ -33,8 +33,8 @@ EV-Digitalization/
 ├── CITATION.cff
 
 ├── code/
-│   ├── MAP-ESCC.m
-│   └── MAP-AD.m
+│   ├── MAP_ESCC.m
+│   └── MAP_AD.m
 
 ├── demo/
 │   ├── ESCC data.zip
