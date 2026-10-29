@@ -1,7 +1,7 @@
 # MAP
 This repository contains the source code and example data for the computational analyses described in:
 
-> Colocalomics: digitalization of intercellular messengers and identification of barrier-crossing subtypes for precision diagnosis
+> Colocalomics: digitalization and ultra-deep profiling of extracellular vesicles for high-throughput discovery of pathological subtypes
 
 The code implements the computational framework for single EV digitalization, machine learning-based classification, parameter optimization, and diagnostic performance evaluation.
 
